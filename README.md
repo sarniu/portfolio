@@ -1,8 +1,10 @@
 # Software Engineer | ML Engineer 
 
-### Education
-B.Tech Computer Science Engineering (Specialisation in AI)<br>    
-Amrita Vishwa Vidhyapeetham [July, 2019 - August, 2023]
+### Skills
+Languages:    Java, Python, Matlab, R<br>
+Frameworks:   Tensoflow, PyTorch, keras, OpenCV, Springboot, JUnit, Mockito<br>
+Dev Tools:    Git, GitHub, BitBucket, Jira, Jenkins<br>
+Other Skills: Effective Communicator, Creativity, Teamwork, Resilient
 
 ### Work Experience
 Software Engineer, NielsenIQ [July, 2023 - Present]
@@ -25,11 +27,10 @@ segmentation in VHR remote sensing images along with determining segmentation
 difficulty and generating a shape-penalty map from the label image through boundary
 shape analysis
 
-### Skills
-Languages:    Java, Python, Matlab, R<br>
-Frameworks:   Tensoflow, PyTorch, keras, OpenCV, Springboot, JUnit, Mockito<br>
-Dev Tools:    Git, GitHub, BitBucket, Jira, Jenkins<br>
-Other Skills: Effective Communicator, Creativity, Teamwork, Resilient
+### Education
+B.Tech Computer Science Engineering (Specialisation in AI)<br>    
+Amrita Vishwa Vidhyapeetham [July, 2019 - August, 2023]<br>
+Coursework: Mathematics for Intelligent Systems, Deep Reinforcement Learning, Deep Learning in Signal and Image Processing, Object Oriented Programming(Java,Python), Data Structures and Algorithms
 
 ### Publications
 Orchestrating Resilient Communication Topology for Smart Connected Cities [IEEE | COMSNETS 2022]
