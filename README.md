@@ -1,7 +1,7 @@
 # Software Engineer | ML Engineer 
 
 ### Education
-B.Tech Computer Science Engineering (Specialisation in AI)  
+B.Tech Computer Science Engineering (Specialisation in AI)<br> 
 Amrita Vishwa Vidhyapeetham [July, 2019 - August, 2023]
 
 ### Work Experience
@@ -26,9 +26,9 @@ difficulty and generating a shape-penalty map from the label image through bound
 shape analysis
 
 ### Skills
-Languages:    Java, Python, Matlab, R\
-Frameworks:   Tensoflow, PyTorch, keras, OpenCV, Springboot, JUnit, Mockito\
-Dev Tools:    Git, GitHub, BitBucket, Jira, Jenkins\
+Languages:    Java, Python, Matlab, R<br>
+Frameworks:   Tensoflow, PyTorch, keras, OpenCV, Springboot, JUnit, Mockito<br>
+Dev Tools:    Git, GitHub, BitBucket, Jira, Jenkins<br>
 Other Skills: Effective Communicator, Creativity, Teamwork, Resilient
 
 ### Publications
