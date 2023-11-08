@@ -2,8 +2,11 @@
 
 ### Skills
 Languages:    Java, Python, Matlab, R
+
 Frameworks:   Tensoflow, PyTorch, keras, OpenCV, Springboot, JUnit, Mockito
+
 Dev Tools:    Git, GitHub, BitBucket, Jira, Jenkins
+
 Other Skills: Effective Communicator, Creativity, Teamwork, Resilient
 
 ### Work Experience
