@@ -1,7 +1,7 @@
 # Software Engineer | ML Engineer 
 
 ### Education
-B.Tech Computer Science Engineering (Specialisation in AI)\
+B.Tech Computer Science Engineering (Specialisation in AI)  
 Amrita Vishwa Vidhyapeetham [July, 2019 - August, 2023]
 
 ### Work Experience
