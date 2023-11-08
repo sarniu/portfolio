@@ -12,3 +12,4 @@ Data Science Fellow, Launchpad.AI [July, 2022 - Sept, 2022]
 the implementation of a sophisticated wide and deep neural network architecture.
 Demonstrated proficiency in discerning latent customer and campaign attributes
 to optimize offer prediction capabilities
+
