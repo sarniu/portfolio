@@ -31,7 +31,7 @@ difficulty and generating a shape-penalty map from the label image through bound
 shape analysis
 
 ### Education
-**B.Tech Computer Science Engineering (Specialisation in AI)** <br>    
+**B.Tech Computer Science Engineering (Specialisation in AI)** <br>
 Amrita Vishwa Vidhyapeetham [July, 2019 - August, 2023]<br>
 **Coursework:** Mathematics for Intelligent Systems, Deep Reinforcement Learning, Deep Learning in Signal and Image Processing, Object Oriented Programming(Java,Python), Data Structures and Algorithms
 
