@@ -13,3 +13,5 @@ the implementation of a sophisticated wide and deep neural network architecture.
 Demonstrated proficiency in discerning latent customer and campaign attributes
 to optimize offer prediction capabilities
 
+### Open Source Contribution
+Cloudforet, LFX Mentorship:The Linux Foundation [Dec, 2023 - Feb, 2024]
